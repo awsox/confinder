@@ -11,6 +11,6 @@ ConFinder is a PHP-based tool for scanning directories and finding sensitive con
 - **Minimalistic Interface**: Simple and easy-to-use interface.
 
 ## How to Use
-  just upload it and open it from browser
+  just upload it and open it from browser\n
   if you want to add more keywords to scan customy , just edit lines 75 -80
   
